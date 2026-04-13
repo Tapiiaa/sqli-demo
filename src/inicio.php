@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>🧴 PerfumesPTL</h1>
+        <h1>PerfumesPTL</h1>
         <p class="subtitulo">Demostración de SQL Injection — TFG</p>
 
         <div class="botones">
