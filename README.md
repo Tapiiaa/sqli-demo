@@ -17,16 +17,20 @@ La aplicación simula una tienda de perfumes con panel de administración, dos v
 ##  Capturas
 
 ### Pantalla de inicio
-![Inicio](docs/inicio.png)
+<img width="1093" height="442" alt="image" src="https://github.com/user-attachments/assets/6f2ed065-9302-4949-94cc-128cd510a22b" />
+
 
 ### Versión vulnerable — Login
-![Login vulnerable](docs/login_vulnerable.png)
+<img width="477" height="493" alt="image" src="https://github.com/user-attachments/assets/d7e54c94-f8a9-4cd5-a448-69d3b9fd40c0" />
+
 
 ### Versión segura — Detección de ataque
-![Detección](docs/login_seguro.png)
+<img width="470" height="590" alt="image" src="https://github.com/user-attachments/assets/c51af76f-c1dc-4adc-a400-ef50d68bfd07" />
+
 
 ### Tienda de productos
-![Tienda](docs/tienda.png)
+<img width="1853" height="716" alt="image" src="https://github.com/user-attachments/assets/4024d697-6fe4-4e06-a5e6-258e93d06392" />
+
 
 ---
 
