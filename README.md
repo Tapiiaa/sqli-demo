@@ -90,6 +90,8 @@ docker run --rm -it secsi/sqlmap \
   --data="username=admin&password=test" \
   -D demo -T users --dump
 ```
+Respuesta por terminal que demuestra que la plataforma está protegida frente a ataques de SQL Injection
+<img width="1526" height="70" alt="image" src="https://github.com/user-attachments/assets/6c86ccba-9330-4a0c-8784-4be8ba342ef9" />
 
 ---
 
