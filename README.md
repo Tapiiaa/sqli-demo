@@ -35,25 +35,7 @@ La aplicación simula una tienda de perfumes con panel de administración, dos v
 ---
 
 ##  Estructura del proyecto
-sqli-demo/
-├── docker-compose.yml
-├── sql/
-│   ├── init.sql              # Base de datos vulnerable
-│   └── init_seguro.sql       # Tabla con contraseñas hasheadas
-└── src/
-├── inicio.php            # Pantalla de selección
-├── registrar.php         # Genera usuarios con bcrypt
-├── css/                  # Estilos
-├── img/                  # Imágenes de productos
-├── vulnerable/           # Versión vulnerable a SQLi
-│   ├── index.php
-│   ├── login.php
-│   ├── tienda.php
-│   ├── admin.php
-│   └── actualizar.php
-└── seguro/               # Versión protegida
-├── index_seguro.php
-└── login_seguro.php
+<img width="233" height="780" alt="image" src="https://github.com/user-attachments/assets/a5244101-6695-4116-af38-8e645e8a0ea9" />
 
 ---
 
